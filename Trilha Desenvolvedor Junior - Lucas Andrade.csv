@@ -1,0 +1,29 @@
+﻿Tópico,Descrição,Status,Etapa
+1️⃣ ETAPA 1 - FUNDAMENTOS PROGRAMAÇÃO,———————————————————————————,,————————————————
+Lógica de Programação,"Revisar estruturas de decisão, laços, variáveis, operadores",A Fazer,Fundamentos de Programação
+Estruturas de Dados (básico),"Listas, pilhas, filas, mapas",A Fazer,Fundamentos de Programação
+POO em Java,"Praticar herança, polimorfismo, abstração, encapsulamento",A Fazer,Fundamentos de Programação
+Tratamento de exceções,"Entender try-catch, throw e finally",A Fazer,Fundamentos de Programação
+2️⃣ ETAPA 2 - JAVA ESSENCIAL,———————————————————————————,,————————————————
+Sintaxe Java,"Praticar estrutura de classes, métodos e variáveis",A Fazer,Java Essencial
+Coleções,"Utilizar List, Set, Map, Iterator",A Fazer,Java Essencial
+Streams e Lambda,Aplicar operações com fluxo de dados,A Fazer,Java Essencial
+3️⃣ ETAPA 3 - BANCO DE DADOS,———————————————————————————,,————————————————
+Comandos SQL,"Executar SELECT, INSERT, UPDATE, DELETE, JOIN",A Fazer,Banco de Dados
+Modelagem relacional,"Praticar entidades, relacionamentos, normalização",A Fazer,Banco de Dados
+Noções MongoDB,Compreender NoSQL e usar comandos básicos,A Fazer,Banco de Dados
+4️⃣ ETAPA 4 - WEB E APIs,———————————————————————————,,————————————————
+HTML5 e CSS3,Construir páginas com estrutura e estilo,A Fazer,Web e APIs
+JavaScript (básico),Criar interações básicas com DOM e lógica em JS,A Fazer,Web e APIs
+APIs REST,Entender métodos HTTP e testar endpoints,A Fazer,Web e APIs
+5️⃣ ETAPA 5 - FERRAMENTAS e FRAMEWORKS,———————————————————————————,,————————————————
+Spring Boot,Criar APIs REST e projetos com arquitetura MVC,A Fazer,Ferramentas e Frameworks
+Maven,Gerenciar dependências em projetos Java,A Fazer,Ferramentas e Frameworks
+Git e GitHub,"Versionar código, criar branches e pull requests",A Fazer,Ferramentas e Frameworks
+6️⃣ ETAPA 6 - TESTES e BOAS PRÁTICAS,———————————————————————————,,————————————————
+JUnit,Criar testes unitários básicos para aplicações Java,A Fazer,Testes e Boas Práticas
+Clean Code,"Escrever código limpo, legível e bem estruturado",A Fazer,Testes e Boas Práticas
+SOLID,Compreender e aplicar os 5 princípios fundamentais de design,A Fazer,Testes e Boas Práticas
+7️⃣ ETAPA 7 - PROJETOS PRÁTICOS,———————————————————————————,,————————————————
+CRUD com Java + MySQL,Criar sistema básico de cadastro e listagem com banco de dados,A Fazer,Projetos Práticos
+Consumo de API externa,Construir app que consome e exibe dados de API pública,A Fazer,Projetos Práticos
